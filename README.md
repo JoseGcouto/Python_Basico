@@ -1,6 +1,6 @@
 # Python_Basico🐍
 
-Nesse repertório redatarei todo conteudo básico estudado. 
+Nesse repertório redatarei todo conteudo básico já estudado. 
 
 Conteudo Abordado📖
 
