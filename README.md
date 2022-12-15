@@ -4,7 +4,7 @@ Nesse repertório redatarei todo conteudo básico já estudado.
 
 Conteudo Abordado📖
 
-● Estrutura de condição - IF/ELSE/ELIF</br>
+● Estrutura de Decisão - IF/ELSE/ELIF</br>
 ● Estrutura de repetição - FOR/WHILE</br>
 ● Strings </br>
 ● Listas em python </br>
