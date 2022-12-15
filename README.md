@@ -1,4 +1,4 @@
-# Python_Basico🐍
+# Python_Básico🐍
 
 Nesse repertório redatarei todo conteudo básico já estudado. 
 
